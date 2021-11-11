@@ -5,7 +5,7 @@ My name is Lambda living + born in Germany. I am currently working on my own web
 
 ## For which project do you 'work'?
 - cyberpit
-- [osu!droid](https://github.com/osudroid)
+- [osu!droid](https://github.com/osudroid) - is a free-to-play circle clicking rhythm game for Android devices. 
 
 ## Fav programming languages / frameworks
 <ul>
