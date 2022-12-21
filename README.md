@@ -12,4 +12,5 @@ My name is Lambda living + born in Germany. I am currently working on my own web
 <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img width="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/svelte.svg" />
 </ul>
